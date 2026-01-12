@@ -20,11 +20,5 @@ This project was created as part of my 2nd semester Computer Science learning to
 - File handling (fstream)
 - Functions and modular code
 
-## How to Run
-1. Compile:
-   g++ .cpp -o student_system
-2. Run:
-   ./student_system
-
 ## Author
 Muhammad Asad Ullah — Computer Science Student
