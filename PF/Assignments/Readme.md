@@ -25,5 +25,4 @@ The goal of this folder is to:
 
 1. Navigate to the specific assignment file or folder.  
 2. Open in any C++ compiler (GCC / Visual Studio / CodeBlocks).  
-3. Compile and run to test the code (if applicable).  
-
+3. Compile and run to test the code.
